@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhen Qin / Site Title"
+title                    : "Zhen Qin / Test Site"
 title_separator          : "-"
 name                     : &name "Zhen Qin"
 description              : &description "PhD candidate at University of Southern California"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ZhenQin-USC"
   google_plus      :
   keybase          :
   instagram        :
