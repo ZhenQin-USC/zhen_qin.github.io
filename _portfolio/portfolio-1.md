@@ -6,7 +6,7 @@ excerpt: "A cool course project working with fantastic teammates.<br/><video src
 collection: portfolio
 ---
 
-Let's play! 
+### Let's play! 
 <iframe frameborder="0" src="https://itch.io/embed/1630415" width="552" height="167"><a href="https://zhen-qin.itch.io/ballexodus">Ball Exodus by Zhen_Qin</a></iframe>
 
 ### Team Members:
@@ -18,13 +18,13 @@ Let's play!
 
 *Grateful for everyone's passion, dedication, creativity, and the inspiring discussions that sparked endless ideas!*
 
-### Prototype Demo
+### Prototype Demo:
 Here's a demo of our game prototype, showcasing the mechanics without any finalized art:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Oji0gudaJk?si=m7TvQcy2aeDq6NKL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-### Final Version Demo
+### Final Version Demo:
 Here's a demo of our game with finalized art:
 <video src='/images/demo.mp4' autoplay loop muted width='100%'></video>
 
