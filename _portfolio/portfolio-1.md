@@ -1,7 +1,7 @@
 ---
 title: "2D Platformer Puzzle Game"
 # excerpt: "A cool course project working with fantastic teammates 1<br/><img src='/images/StageSceneGears.png'>"
-excerpt: "A cool course project working with fantastic teammates 1<br/><video src='/images/GearStage1.mp4' autoplay loop muted width='100%' style='max-height: 200px;'></video>"
+excerpt: "A cool course project working with fantastic teammates 1<br/><video src='/images/GearStage1.mp4' autoplay loop muted width='100%' style='max-height: 400px;'></video>"
 collection: portfolio
 ---
 
