@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhen Qin / Portfolio"
+title                    : "Zhen Qin"
 title_separator          : "-"
 name                     : &name "Zhen Qin"
 description              : &description "PhD candidate at University of Southern California"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zhen-qin-usc/"
+  linkedin         : "zhen-qin-usc/"
   orcid            : "http://orcid.org/0000-0002-5776-9094"
   pinterest        :
   soundcloud       :
