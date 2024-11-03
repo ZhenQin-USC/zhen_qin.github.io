@@ -26,5 +26,6 @@ Here's a demo of our game prototype, showcasing the mechanics without any finali
 
 ### Final Version Demo:
 Here's a demo of our game with finalized art:
-<video src='/images/demo.mp4' autoplay loop muted width='100%'></video>
+
+<video src="/images/demo.mp4" autoplay loop muted width="100%" controls></video>
 
