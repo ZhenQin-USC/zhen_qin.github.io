@@ -1,7 +1,8 @@
 ---
 title: "2D Platformer Puzzle Game"
 # excerpt: "A cool course project working with fantastic teammates 1<br/><img src='/images/StageSceneGears.png'>"
-excerpt: "A cool course project working with fantastic teammates 1<br/><video src='/images/GearStage1.mp4' autoplay loop muted width='100%' style='max-height: 400px;'></video>"
+# excerpt: "A cool course project working with fantastic teammates 1<br/><video src='/images/GearStage1.mp4' autoplay loop muted width='100%' style='max-height: 400px;'></video>"
+excerpt: "A cool course project working with fantastic teammates 1<br/><video src='/images/GearStage1.mp4' autoplay loop muted width='100%'></video>"
 collection: portfolio
 ---
 
@@ -21,3 +22,6 @@ Let's play!
 Here's a demo of our game's prototype, showcasing the mechanics without any finalized art:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Oji0gudaJk?si=m7TvQcy2aeDq6NKL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+Here's a demo of our game's prototype, showcasing the mechanics without any finalized art:
