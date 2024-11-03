@@ -11,7 +11,7 @@ Let's play!
 - **Hsuan-Chi Lee**
 - **Tu-Ning Ting**
 - **Haotai Ye**
-- **Wentao zhou**
+- **Wentao Zhou**
 - **Zhen Qin**
 
 *Grateful for everyone’s passion, dedication, creativity, and the inspiring discussions that sparked endless ideas!*
