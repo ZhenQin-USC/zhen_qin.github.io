@@ -27,5 +27,4 @@ Here's a demo of our game prototype, showcasing the mechanics without any finali
 ### Final Version Demo:
 Here's a demo of our game with finalized art:
 
-<video src="/images/demo.mp4" autoplay loop muted width="100%" controls></video>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2goHSodjDyw?si=eeZZm2fL9mT14AIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
