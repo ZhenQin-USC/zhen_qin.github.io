@@ -14,4 +14,9 @@ Let's play!
 - **Wentao Zhou**
 - **Zhen Qin**
 
-*Grateful for everyone’s passion, dedication, creativity, and the inspiring discussions that sparked endless ideas!*
+*Grateful for everyone's passion, dedication, creativity, and the inspiring discussions that sparked endless ideas!*
+
+
+Here's a demo of our game's prototype, showcasing the mechanics without any finalized art:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Oji0gudaJk?si=m7TvQcy2aeDq6NKL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
