@@ -5,6 +5,6 @@ collection: portfolio
 ---
 
 Let's play! 
-<iframe src="https://itch.io/embed-upload/xxxx/xxxx?ref=https%3A//zhen-qin.itch.io/ballexodus" width="800" height="600" frameborder="0"></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/1630415" width="552" height="167"><a href="https://zhen-qin.itch.io/ballexodus">Ball Exodus by Zhen_Qin</a></iframe>
 
 https://zhen-qin.itch.io/ballexodus
