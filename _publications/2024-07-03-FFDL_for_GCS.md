@@ -17,7 +17,9 @@ This paper introduces a new deep learning model called Fluid Flow-based Deep Lea
 ---
 
 **Recommended citation**:  
+<div style="text-align: justify;">
 Qin, Z., Liu, Y., Zheng, F., et al. (2024). "Fluid Flow-based Deep Learning (FFDL) for Geologic CO<sub>2</sub> Storage." *Authorea*, July 03, 2024. DOI: [10.22541/au.172004455.58097978/v1](https://doi.org/10.22541/au.172004455.58097978/v1).
+</div>
 
 ---
 
