@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Efficient Optimization of Energy Recovery From Geothermal Reservoirs With Recurrent Neural Network Predictive Models"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/WRR_2023-RNN_Proxy_for_Geothermal_Energy_Optimization
+excerpt: 'The paper proposes the use of recurrent neural network (RNN) architectures for capturing the dynamics of historical well response data as a function of input control variables. A trained RNN is then used as an efficient input-output dynamical model for optimization of energy recovery from geothermal reservoirs. Results from time-consuming simulation-based and fast RNN prediction models are presented and evaluated to compare the optimization strategies of the two approaches, indicating their consistency. The results suggest that RNN can be used as an efficient dynamic prediction tool for decision support and management of geothermal reservoir operations and development.'
+date: 2023-01-20
+venue: 'Water Resources Research'
+paperurl: 'http://zhenqin-usc.github.io/files/QinEtAl-WRR_2023-RNN_Proxy_for_Geothermal_Energy_Optimization.pdf'
+citation: 'Qin, Z., Jiang, A., Faulder, D., Cladouhos, T. T., & Jafarpour, B. (2023). "Efficient optimization of energy recovery from geothermal reservoirs with recurrent neural network predictive models." <i>Water Resources Research</i>, 59, e2022WR032653. https://doi.org/10.1029/2022WR032653.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+**Plain Language Summary:**
+The paper proposes the use of recurrent neural network (RNN) architectures for capturing the dynamics of historical well response data as a function of input control variables. A trained RNN is then used as an efficient input-output dynamical model for optimization of energy recovery from geothermal reservoirs. Results from time-consuming simulation-based and fast RNN prediction models are presented and evaluated to compare the optimization strategies of the two approaches, indicating their consistency. The results suggest that RNN can be used as an efficient dynamic prediction tool for decision support and management of geothermal reservoir operations and development.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+<!-- [Download paper here](http://zhenqin-usc.github.io/files/QinEtAl-WRR_2023-RNN_Proxy_for_Geothermal_Energy_Optimization.pdf) -->
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Qin, Z., Jiang, A., Faulder, D., Cladouhos, T. T., & Jafarpour, B. (2023). "Efficient optimization of energy recovery from geothermal reservoirs with recurrent neural network predictive models." <i>Water Resources Research</i>, 59, e2022WR032653. https://doi.org/10.1029/2022WR032653.
