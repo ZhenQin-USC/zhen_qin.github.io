@@ -26,5 +26,5 @@ Qin, Z., Liu, Y., Zheng, F., et al. (2024). "Fluid Flow-based Deep Learning (FFD
 [Download paper here](http://zhenqin-usc.github.io/files/QinEtAl-Preprint_for_WRR_2024-FFDL_for_GCS_Spatiotemporal_Prediction.pdf)
 
 ---
-<iframe src="/files/QinEtAl-Preprint_for_WRR_2024-FFDL_for_GCS_Spatiotemporal_Prediction.pdf" width="100%" height="1200px" style="border: none;"></iframe>
+<iframe src="/files/QinEtAl-Preprint_for_WRR_2024-FFDL_for_GCS_Spatiotemporal_Prediction.pdf" width="100%" height="1000px" style="border: none;"></iframe>
 
