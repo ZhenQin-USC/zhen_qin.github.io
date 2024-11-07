@@ -6,7 +6,7 @@ excerpt: 'The paper proposes the use of recurrent neural network (RNN) architect
 date: 2023-01-20
 venue: 'Water Resources Research'
 # paperurl: 'http://zhenqin-usc.github.io/files/QinEtAl-WRR_2023-RNN_Proxy_for_Geothermal_Energy_Optimization.pdf'
-citation: 'Qin, Z., Jiang, A., Faulder, D., Cladouhos, T. T., & Jafarpour, B. (2023). "Efficient optimization of energy recovery from geothermal reservoirs with recurrent neural network predictive models." <i>Water Resources Research</i>, 59, e2022WR032653. https://doi.org/10.1029/2022WR032653.'
+# citation: 'Qin, Z., Jiang, A., Faulder, D., Cladouhos, T. T., & Jafarpour, B. (2023). "Efficient optimization of energy recovery from geothermal reservoirs with recurrent neural network predictive models." <i>Water Resources Research</i>, 59, e2022WR032653. https://doi.org/10.1029/2022WR032653.'
 ---
 
 **Plain Language Summary:**
@@ -16,5 +16,7 @@ The paper proposes the use of recurrent neural network (RNN) architectures for c
 
 **Recommended citation:**
 Qin, Z., Jiang, A., Faulder, D., Cladouhos, T. T., & Jafarpour, B. (2023). "Efficient optimization of energy recovery from geothermal reservoirs with recurrent neural network predictive models." <i>Water Resources Research</i>, 59, e2022WR032653. https://doi.org/10.1029/2022WR032653.
+
+---
 
 [Download paper here](http://zhenqin-usc.github.io/files/QinEtAl-WRR_2023-RNN_Proxy_for_Geothermal_Energy_Optimization.pdf)
