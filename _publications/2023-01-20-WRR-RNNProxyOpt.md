@@ -1,5 +1,5 @@
 ---
-title: "Efficient Optimization of Energy Recovery From Geothermal Reservoirs With Recurrent Neural Network Predictive Models"
+title: "Efficient Optimization of Energy Recovery from Geothermal Reservoirs with Recurrent Neural Network Predictive Models"
 collection: publications
 permalink: /publication/WRR_2023-RNN_Proxy_for_Geothermal_Energy_Optimization
 excerpt: 'The paper proposes the use of recurrent neural network (RNN) architectures for optimizing energy recovery from geothermal reservoirs.'
