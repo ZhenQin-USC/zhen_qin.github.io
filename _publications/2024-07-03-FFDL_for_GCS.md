@@ -9,6 +9,7 @@ excerpt: "This study explores a fluid flow-based deep learning model for predict
 </div>"
 date: 2025-02-01
 venue: 'Water Resources Research'
+
 ---
 
 <details>
@@ -24,7 +25,7 @@ venue: 'Water Resources Research'
 
 <details>
   <summary style="padding: 10px; cursor: pointer;">
-    <b>Recommended Citation:</b>
+    <b>How to Cite:</b>
   </summary>
   <div style="margin-top: 10px;">
     <pre style="font-size: 12px; background-color: #f5f5f5; padding: 10px; border-radius: 5px; overflow-x: auto;">
@@ -56,6 +57,3 @@ venue: 'Water Resources Research'
     <iframe src="/files/QinEtAl-WRR_2025-FFDL_for_GCS.pdf" width="100%" height="1000px" style="border: none;"></iframe>
   </div>
 </details>
-
----  
-
