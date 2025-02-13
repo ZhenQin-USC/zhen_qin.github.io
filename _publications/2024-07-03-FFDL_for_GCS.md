@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-07-03-FFDL-for-CO2-Storage
 excerpt: "This study explores a fluid flow-based deep learning model for predicting CO<sub>2</sub> storage dynamics in geologic formations, enhancing spatiotemporal prediction accuracy."
 date: 2025-02-01
-venue: 'Water Resources Research (Accepted)'
+venue: 'Water Resources Research'
 # paperurl: 'http://zhenqin-usc.github.io/files/QinEtAl-Preprint_for_WRR_2024-FFDL_for_GCS_Spatiotemporal_Prediction.pdf'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
@@ -23,8 +23,8 @@ Qin, Z., Liu, Y., Zheng, F., & Jafarpour, B. (2025). A fluid flow‐based deep l
 
 ---
 
-[Download paper here](http://zhenqin-usc.github.io/files/QinEtAl-Preprint_for_WRR_2024-FFDL_for_GCS_Spatiotemporal_Prediction.pdf)
+[Download paper here](https://doi.org/10.1029/2024WR037953)
 
 ---
-<iframe src="/files/QinEtAl-Preprint_for_WRR_2024-FFDL_for_GCS_Spatiotemporal_Prediction.pdf" width="100%" height="1000px" style="border: none;"></iframe>
+<iframe src="/files/QinEtAl-WRR_2025 - FFDL_for_GCS.pdf" width="100%" height="1000px" style="border: none;"></iframe>
 
