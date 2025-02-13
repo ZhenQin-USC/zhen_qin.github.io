@@ -16,13 +16,12 @@ This study proposes a novel physics-guided recurrent neural network (RNN) model 
 
 ---
 
-**Recommended citation:**
+**Recommended citation:**<span style="font-size: 12px;">
 <pre><code class="bibtex">
 @article{qin_physics-guided_2024,
 	title = {Physics-{Guided} {Deep} {Learning} for {Prediction} of {Energy} {Production} from {Geothermal} {Reservoirs}},
 	volume = {116},
 	issn = {03756505},
-	url = {https://linkinghub.elsevier.com/retrieve/pii/S0375650523001785},
 	doi = {10.1016/j.geothermics.2023.102824},
 	journal = {Geothermics},
 	author = {Qin, Zhen and Jiang, Anyue and Faulder, Dave and Cladouhos, Trenton T. and Jafarpour, Behnam},
@@ -30,11 +29,7 @@ This study proposes a novel physics-guided recurrent neural network (RNN) model 
 	year = {2024},
 	pages = {102824},
 }
-</code></pre>
-
-<!-- <div style="text-align: justify;">
-Qin, Z., Jiang, A., Faulder, D., Cladouhos, T. T., & Jafarpour, B. (2024). "Physics-guided deep learning for prediction of energy production from geothermal reservoirs" <i>Geothermics</i>, 116, 102824. https://doi.org/10.1016/j.geothermics.2023.102824.
-</div> -->
+</code></pre></span>
 
 ---
 ## **Download Paper**
