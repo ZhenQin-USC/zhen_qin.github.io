@@ -16,7 +16,8 @@ This paper introduces a new deep learning model called Fluid Flow-based Deep Lea
 
 ---
 
-**Recommended citation:**<span style="font-size: 12px;">
+<div style="display: inline;">
+**Recommended citation:** <span style="font-size: 9px;">
 <pre><code class="bibtex">
 @article{qin_fluid_2025,
 	title = {A {Fluid} {Flow}-{Based} {Deep} {Learning} ({FFDL}) {Architecture} for {Subsurface} {Flow} {Systems} {With} {Application} to {Geologic} {CO}$_{\textrm{2}}$ {Storage}},
@@ -31,6 +32,7 @@ This paper introduces a new deep learning model called Fluid Flow-based Deep Lea
 	pages = {e2024WR037953},
 }
 </code></pre></span>
+</div>
 
 ---
 
