@@ -3,7 +3,6 @@
     margin: 0;
     padding: 0;
     font-size: 12px;
-    /* 调整字号 */
 }
 
 .bibtex {
@@ -12,6 +11,5 @@
     margin: 0;
     padding: 0;
     white-space: pre-wrap;
-    /* 确保格式正确 */
     font-family: monospace;
 }
