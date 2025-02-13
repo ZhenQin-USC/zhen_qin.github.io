@@ -23,8 +23,8 @@ Qin, Z., Liu, Y., Zheng, F., & Jafarpour, B. (2025). A fluid flow‐based deep l
 
 ---
 
-[Download paper here](https://doi.org/10.1029/2024WR037953)
+[Download paper here](http://zhenqin-usc.github.io/files/QinEtAl-WRR_2025-FFDL_for_GCS.pdf)
 
 ---
-<iframe src="/files/QinEtAl-WRR_2025 - FFDL_for_GCS.pdf" width="100%" height="1000px" style="border: none;"></iframe>
+<iframe src="/files/QinEtAl-WRR_2025-FFDL_for_GCS.pdf" width="100%" height="1000px" style="border: none;"></iframe>
 
