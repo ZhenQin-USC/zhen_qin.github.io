@@ -2,7 +2,8 @@
 title: "A Fluid Flow‐Based Deep Learning (FFDL) Architecture for Subsurface Flow Systems with Application to Geologic CO<sub>2</sub> Storage"
 collection: publications
 permalink: /publication/2024-07-03-FFDL-for-CO2-Storage
-excerpt: "This study explores a fluid flow-based deep learning model for predicting CO<sub>2</sub> storage dynamics in geologic formations, enhancing spatiotemporal prediction accuracy."
+excerpt: "This study explores a fluid flow-based deep learning model for predicting CO<sub>2</sub> storage dynamics in geologic formations, enhancing spatiotemporal prediction accuracy and extrapolation capability.
+![FFDL Model](/files/WRR2025_FFDL/Figure1.jpg)"
 date: 2025-02-01
 venue: 'Water Resources Research'
 # paperurl: 'http://zhenqin-usc.github.io/files/QinEtAl-Preprint_for_WRR_2024-FFDL_for_GCS_Spatiotemporal_Prediction.pdf'
