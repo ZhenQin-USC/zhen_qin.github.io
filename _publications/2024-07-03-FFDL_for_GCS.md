@@ -2,8 +2,10 @@
 title: "A Fluid Flow‐Based Deep Learning (FFDL) Architecture for Subsurface Flow Systems with Application to Geologic CO<sub>2</sub> Storage"
 collection: publications
 permalink: /publication/2024-07-03-FFDL-for-CO2-Storage
+# excerpt: "This study explores a fluid flow-based deep learning model for predicting CO<sub>2</sub> storage dynamics in geologic formations, enhancing spatiotemporal prediction accuracy and extrapolation capability.
+# ![FFDL Model](/files/WRR2025_FFDL/Figure1.jpg)"
 excerpt: "This study explores a fluid flow-based deep learning model for predicting CO<sub>2</sub> storage dynamics in geologic formations, enhancing spatiotemporal prediction accuracy and extrapolation capability.
-![FFDL Model](/files/WRR2025_FFDL/Figure1.jpg)"
+<img src='/files/WRR2025_FFDL/Figure1.jpg' alt='FFDL Model' width='300' height='auto'>"
 date: 2025-02-01
 venue: 'Water Resources Research'
 # paperurl: 'http://zhenqin-usc.github.io/files/QinEtAl-Preprint_for_WRR_2024-FFDL_for_GCS_Spatiotemporal_Prediction.pdf'
@@ -41,3 +43,13 @@ This paper introduces a new deep learning model called Fluid Flow-based Deep Lea
 <iframe src="/files/QinEtAl-WRR_2025-FFDL_for_GCS.pdf" width="100%" height="1000px" style="border: none;"></iframe>
 
 ---
+
+<details>
+  <summary style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px; cursor: pointer;">
+    <b>Download Paper:</b> (Click to Expand)
+  </summary>
+  <div style="margin-top: 10px;">
+    📄 <a href="http://zhenqin-usc.github.io/files/QinEtAl-WRR_2025-FFDL_for_GCS.pdf" target="_blank">Download paper here</a>
+    <iframe src="/files/QinEtAl-WRR_2025-FFDL_for_GCS.pdf" width="100%" height="1000px" style="border: none;"></iframe>
+  </div>
+</details>
