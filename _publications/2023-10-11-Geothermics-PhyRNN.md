@@ -17,7 +17,7 @@ This study proposes a novel physics-guided recurrent neural network (RNN) model 
 ---
 
 **Recommended citation:**
-<pre>
+<pre><code class="bibtex">
 @article{qin_physics-guided_2024,
 	title = {Physics-{Guided} {Deep} {Learning} for {Prediction} of {Energy} {Production} from {Geothermal} {Reservoirs}},
 	volume = {116},
@@ -30,15 +30,15 @@ This study proposes a novel physics-guided recurrent neural network (RNN) model 
 	year = {2024},
 	pages = {102824},
 }
-<pre>
+</code></pre>
 
 <!-- <div style="text-align: justify;">
 Qin, Z., Jiang, A., Faulder, D., Cladouhos, T. T., & Jafarpour, B. (2024). "Physics-guided deep learning for prediction of energy production from geothermal reservoirs" <i>Geothermics</i>, 116, 102824. https://doi.org/10.1016/j.geothermics.2023.102824.
 </div> -->
 
 ---
-
-[Download paper here](http://zhenqin-usc.github.io/files/QinEtAl-Geothermics_2024-PGDL_for_Well_Prediction_in_Geothermal_Reservoirs.pdf)
+## **Download Paper**
+📄 [Download paper here](http://zhenqin-usc.github.io/files/QinEtAl-Geothermics_2024-PGDL_for_Well_Prediction_in_Geothermal_Reservoirs.pdf)
 
 ---
 <iframe src="/files/QinEtAl-Geothermics_2024-PGDL_for_Well_Prediction_in_Geothermal_Reservoirs.pdf" width="100%" height="1000px" style="border: none;"></iframe>
