@@ -20,7 +20,7 @@ This paper introduces a new deep learning model called Fluid Flow-based Deep Lea
 <div style="position: relative;">
   <pre id="bibtex" style="font-size: 12px; background-color: #f5f5f5; padding: 10px; border-radius: 5px; overflow-x: auto;">
 @article{qin_fluid_2025,
-  title = {A {Fluid} {Flow}-{Based} {Deep} {Learning} ({FFDL}) {Architecture} for {Subsurface} {Flow} {Systems} {With} {Application} to {Geologic} {CO}$_{\textrm{2}}$ {Storage}},
+  title = {A {Fluid} {Flow}-{Based} {Deep} {Learning} ({FFDL}) {Architecture} for {Subsurface} {Flow} {Systems} {With} {Application} to {Geologic} CO$_2$ {Storage}},
   volume = {61},
   issn = {0043-1397, 1944-7973},
   doi = {10.1029/2024WR037953},
