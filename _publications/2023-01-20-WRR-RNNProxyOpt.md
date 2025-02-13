@@ -16,8 +16,7 @@ The paper proposes the use of recurrent neural network (RNN) architectures for c
 
 ---
 
-**Recommended citation:**  
-<pre><code class="bibtex">
+**Recommended citation:**  <pre><code class="bibtex">
 @article{qin_efficient_2023,
 	title = {Efficient {Optimization} of {Energy} {Recovery} {From} {Geothermal} {Reservoirs} {With} {Recurrent} {Neural} {Network} {Predictive} {Models}},
 	volume = {59},
