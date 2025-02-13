@@ -16,7 +16,8 @@ This study proposes a novel physics-guided recurrent neural network (RNN) model 
 
 ---
 
-**Recommended citation:**<span style="font-size: 12px;">
+<div style="display: inline;">
+**Recommended citation:** <span style="font-size: 12px;">
 <pre><code class="bibtex">
 @article{qin_physics-guided_2024,
 	title = {Physics-{Guided} {Deep} {Learning} for {Prediction} of {Energy} {Production} from {Geothermal} {Reservoirs}},
@@ -30,6 +31,7 @@ This study proposes a novel physics-guided recurrent neural network (RNN) model 
 	pages = {102824},
 }
 </code></pre></span>
+</div>
 
 ---
 ## **Download Paper**
