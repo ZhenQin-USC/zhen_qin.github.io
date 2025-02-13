@@ -3,7 +3,7 @@ title: "Physics-Guided Deep Learning for Prediction of Energy Production from Ge
 collection: publications
 permalink: /publication/Geothermics_2024-PGDL_for_Well_Prediction_in_Geothermal_Reservoirs
 excerpt: "This study introduces a physics-guided recurrent neural network model to predict and extrapolate for geothermal reservoir, enhancing prediction accuracy and reliability over traditional data-driven models"
-date: 2023-10-11
+date: 2024-01-01
 venue: 'Geothermics'
 # paperurl: 'http://zhenqin-usc.github.io/files/QinEtAl-Geothermics_2024-PGDL_for_Well_Prediction_in_Geothermal_Reservoirs.pdf'
 # citation: 'Qin, Z., Jiang, A., Faulder, D., Cladouhos, T. T., & Jafarpour, B. (2024). "Physics-guided deep learning for prediction of energy production from geothermal reservoirs" <i>Geothermics</i>, 116, 102824.'
