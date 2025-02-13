@@ -25,3 +25,6 @@ Recommended citation: Qin, Z., Jiang, A., Faulder, D., Cladouhos, T. T., & Jafar
 
 [Download paper here](http://zhenqin-usc.github.io/files/QinEtAl-Geothermics_2024-PGDL_for_Well_Prediction_in_Geothermal_Reservoirs.pdf)
 
+---
+<iframe src="/files/QinEtAl-Geothermics_2024-PGDL_for_Well_Prediction_in_Geothermal_Reservoirs.pdf" width="100%" height="1000px" style="border: none;"></iframe>
+

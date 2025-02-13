@@ -24,3 +24,6 @@ Qin, Z., Jiang, A., Faulder, D., Cladouhos, T. T., & Jafarpour, B. (2023). "Effi
 ---
 
 [Download paper here](http://zhenqin-usc.github.io/files/QinEtAl-WRR_2023-RNN_Proxy_for_Geothermal_Energy_Optimization.pdf)
+
+---
+<iframe src="/files/QinEtAl-WRR_2023-RNN_Proxy_for_Geothermal_Energy_Optimization.pdf" width="100%" height="1000px" style="border: none;"></iframe>
