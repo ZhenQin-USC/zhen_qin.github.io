@@ -5,7 +5,7 @@ permalink: /publication/2024-07-03-FFDL-for-CO2-Storage
 excerpt: "This study explores a fluid flow-based deep learning model for predicting CO<sub>2</sub> storage dynamics in geologic formations, enhancing spatiotemporal prediction accuracy and extrapolation capability.
 
 <div style='text-align: center;'>
-  <img src='/files/WRR2025_FFDL/Figure1.jpg' alt='FFDL Model 1' width='500' height='auto' style='margin: 10px;'>
+  <img src='/files/WRR2025_FFDL/Figure1.jpg' alt='FFDL Model 1' width='600' height='auto' style='margin: 10px;'>
 </div>"
 date: 2025-02-01
 venue: 'Water Resources Research'
