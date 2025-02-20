@@ -26,17 +26,9 @@
     text-decoration: underline;
 }
 
-/* .archive__item-title {
-    font-family: "Times New Roman", serif;
-    font-size: 22px;
-    font-weight: bold;
-    color: #333;
-    text-transform: capitalize;
-    letter-spacing: 0.5px;
-}
- */
+
 .archive__item-title {
-    font-size: 16px;
+    font-size: 14px;
     font-weight: normal;
     margin-bottom: 2px;
     /* 调整间距 */
@@ -44,8 +36,9 @@
 }
 
 .paper-index {
+    font-size: 14px;
     font-weight: normal;
-    margin-right: 0px;
+    margin-right: 5px;
     /* 让序列号和标题有一点间距 */
 }
 
