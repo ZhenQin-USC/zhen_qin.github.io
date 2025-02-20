@@ -6,7 +6,8 @@ permalink: https://doi-org.libproxy1.usc.edu/10.1016/j.geothermics.2023.102824
 authors: "**Z. Qin**, A. Jiang, D. Faulder, T. T. Cladouhos, and B. Jafarpour<sup>†</sup>"
 date: 2024-01-01
 venue: 'Geothermics'
-doi: https://doi-org.libproxy1.usc.edu/10.1016/j.geothermics.2023.102824
+doi: "https://doi-org.libproxy1.usc.edu/10.1016/j.geothermics.2023.102824"
+
 ---
 
 <details>
