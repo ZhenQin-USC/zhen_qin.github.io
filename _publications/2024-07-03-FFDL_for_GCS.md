@@ -8,10 +8,12 @@ venue: 'Water Resources Research'
 doi: "https://doi.org/10.1029/2024WR037953"
 
 ---
-
-<div style='text-align: center;'>
-  <img src='/files/WRR2025_FFDL/Figure1.jpg' alt='FFDL Model 1' width='600' height='auto' style='margin: 10px;'>
-</div>
+<details>
+  </summary>
+  <div style='text-align: center;'>
+    <img src='/files/WRR2025_FFDL/Figure1.jpg' alt='FFDL Model 1' width='600' height='auto' style='margin: 10px;'>
+  </div>
+</details>
 
 ---
 
