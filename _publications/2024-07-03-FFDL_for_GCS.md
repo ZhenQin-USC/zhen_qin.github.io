@@ -10,6 +10,8 @@ doi: "https://doi.org/10.1029/2024WR037953"
 
 ---
 <details>
+  <summary style="padding: 10px; cursor: pointer;">
+    <b>Graphic Abstract</b>
   </summary>
   <div style='text-align: center;'>
     <img src='/files/WRR2025_FFDL/Figure1.jpg' alt='FFDL Model 1' width='600' height='auto' style='margin: 10px;'>
