@@ -1,7 +1,7 @@
 ---
 title: "Physics-Guided Deep Learning for Prediction of Energy Production from Geothermal Reservoirs"
 collection: publications
-permalink: /publication/WRR_2023-RNN_Proxy_for_Geothermal_Energy_Optimization
+permalink: "/publication/2023-10-11-Geothermics-PhyRNN"
 # excerpt: "This study introduces a physics-guided recurrent neural network model to predict and extrapolate for geothermal reservoir, enhancing prediction accuracy and reliability over traditional data-driven models"
 authors: "<strong>Z. Qin</strong>, A. Jiang, D. Faulder, T. T. Cladouhos, and B. Jafarpour<sup>†</sup>"
 date: 2024-01-01
