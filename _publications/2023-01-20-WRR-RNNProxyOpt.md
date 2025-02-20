@@ -3,7 +3,7 @@ title: "Efficient Optimization of Energy Recovery from Geothermal Reservoirs wit
 collection: publications
 permalink: /publication/WRR_2023-RNN_Proxy_for_Geothermal_Energy_Optimization
 excerpt: 'The paper proposes the use of recurrent neural network (RNN) architectures for optimizing energy recovery from geothermal reservoirs.'
-authors: "**Z. Qin**, A. Jiang, D. Faulder, T. T. Cladouhos, and B. Jafarpour*"
+authors: "**Z. Qin**, A. Jiang, D. Faulder, T. T. Cladouhos, and B. Jafarpour<sup>†</sup>"
 date: 2023-01-20
 venue: 'Water Resources Research'
 doi: https://doi.org/10.1029/2022WR032653
