@@ -1,14 +1,32 @@
 ---
-title: "A Fluid Flow‐Based Deep Learning (FFDL) Architecture for Subsurface Flow Systems with Application to Geologic CO<sub>2</sub> Storage"
-collection: publications
-permalink: /publication/2024-07-03-FFDL-for-CO2-Storage
-excerpt: "This study explores a fluid flow-based deep learning model for predicting CO<sub>2</sub> storage dynamics in geologic formations, enhancing spatiotemporal prediction accuracy and extrapolation capability.
+# title: "A Fluid Flow‐Based Deep Learning (FFDL) Architecture for Subsurface Flow Systems with Application to Geologic CO<sub>2</sub> Storage"
+# collection: publications
+# permalink: /publication/2024-07-03-FFDL-for-CO2-Storage
+# excerpt: "This study explores a fluid flow-based deep learning model for predicting CO<sub>2</sub> storage dynamics in geologic formations, enhancing spatiotemporal prediction accuracy and extrapolation capability.
 
-<div style='text-align: center;'>
-  <img src='/files/WRR2025_FFDL/Figure1.jpg' alt='FFDL Model 1' width='600' height='auto' style='margin: 10px;'>
-</div>"
-date: 2025-02-01
-venue: 'Water Resources Research'
+# <div style='text-align: center;'>
+#   <img src='/files/WRR2025_FFDL/Figure1.jpg' alt='FFDL Model 1' width='600' height='auto' style='margin: 10px;'>
+# </div>"
+# date: 2025-02-01
+# venue: 'Water Resources Research'
+
+<details>
+  <summary style="padding: 10px; cursor: pointer;">
+    <b>Title: "A Fluid Flow‐Based Deep Learning (FFDL) Architecture for Subsurface Flow Systems with Application to Geologic CO<sub>2</sub> Storage"</b>
+    <br>
+    <i>Authors: [<b>Zhen QIN</b>; Yingxiang LIU; Fangning ZHENG; Behnam JAFARPOUR]</i>
+  </summary>
+  <div style="padding: 10px;">
+    <p><strong>Collection:</strong> publications</p>
+    <p><strong>Permalink:</strong> <a href="/publication/2024-07-03-FFDL-for-CO2-Storage">/publication/2024-07-03-FFDL-for-CO2-Storage</a></p>
+    <p><strong>Excerpt:</strong> This study explores a fluid flow-based deep learning model for predicting CO<sub>2</sub> storage dynamics in geologic formations, enhancing spatiotemporal prediction accuracy and extrapolation capability.</p>
+    <div style='text-align: center;'>
+      <img src='/files/WRR2025_FFDL/Figure1.jpg' alt='FFDL Model 1' width='600' height='auto' style='margin: 10px;'>
+    </div>
+    <p><strong>Date:</strong> 2025-02-01</p>
+    <p><strong>Venue:</strong> Water Resources Research</p>
+  </div>
+</details>
 
 ---
 
