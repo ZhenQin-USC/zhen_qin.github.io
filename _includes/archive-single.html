@@ -46,9 +46,9 @@
           <p> {{ post.doi }}</p> -->
           <p>
             <span>{{ post.authors }}.</span>
-            <span>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.</span>
+            <span><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.</span>
             {% if post.doi %}
-            <span><a href="{{ post.doi }}" target="_blank" class="doi-link">{{ post.doi }}</a></span>
+            <span>DOI: <a href="{{ post.doi }}" target="_blank" class="doi-link">{{ post.doi }}</a></span>
             {% endif %}
           </p>
         {% elsif post.date %}
