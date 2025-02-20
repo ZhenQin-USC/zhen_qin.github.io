@@ -26,12 +26,18 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
+    <!-- <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
+    </h2> -->
+
+    {% assign paper_index = forloop.index %}
+    <h2 class="archive__item-title">
+      <span class="paper-index">[{{ paper_index }}] </span> <!-- 添加论文序号 -->
+      <span class="paper-title">{{ title }}</span> <!-- 移除超链接 -->
     </h2>
 
     {% if post.read_time %}
