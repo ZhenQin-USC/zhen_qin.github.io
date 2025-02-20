@@ -14,7 +14,7 @@
   <summary style="padding: 10px; cursor: pointer;">
     <b>Title: "A Fluid Flow‐Based Deep Learning (FFDL) Architecture for Subsurface Flow Systems with Application to Geologic CO<sub>2</sub> Storage"</b>
     <br>
-    <i>Authors: [<b>Zhen QIN</b>; Yingxiang LIU; Fangning ZHENG; Behnam JAFARPOUR]</i>
+    <i>Authors: [<b>Zhen QIN</b>; Yingxiang LIU; Fangning ZHENG; Behnam JAFARPOUR]
   </summary>
   <div style="padding: 10px;">
     <p><strong>Collection:</strong> publications</p>
