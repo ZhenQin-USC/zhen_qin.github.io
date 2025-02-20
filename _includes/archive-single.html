@@ -36,10 +36,9 @@
 
     {% assign paper_index = forloop.index %}
     <h2 class="archive__item-title">
-      <span class="paper-index">[{{ paper_index }}] </span> <!-- 添加序号 -->
-      <span class="paper-title">{{ title }}</span> <!-- 论文标题，去掉超链接 -->
-      <a href="{{ base_path }}{{ post.url }}" rel="permalink" class="paper-link">
-        <i class="fa fa-link" aria-hidden="true" title="Permalink"></i> <!-- 仅超链接图标 -->
+      <span class="paper-index">[{{ paper_index }}] </span> <!-- 添加序号，无超链接 -->
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink" class="paper-title"> <!-- 让整个标题带超链接 -->
+        {{ title }}
       </a>
     </h2>
 
