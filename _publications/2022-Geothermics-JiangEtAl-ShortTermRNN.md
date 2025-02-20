@@ -7,3 +7,5 @@ permalink: "/publication/2022-Geothermics-JiangEtAl-ShortTermRNN"
 date: 2022-09-01
 venue: 'Geothermics'
 doi: "https://doi.org/10.1016/j.geothermics.2022.102439"
+
+---
