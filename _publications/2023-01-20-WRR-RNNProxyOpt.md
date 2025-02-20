@@ -6,7 +6,7 @@ excerpt: 'The paper proposes the use of recurrent neural network (RNN) architect
 authors: "**Z. Qin**, A. Jiang, D. Faulder, T. T. Cladouhos, and B. Jafarpour<sup>†</sup>"
 date: 2023-01-20
 venue: 'Water Resources Research'
-doi: https://doi.org/10.1029/2022WR032653
+doi: "https://doi.org/10.1029/2022WR032653"
 ---
 
 <details>
