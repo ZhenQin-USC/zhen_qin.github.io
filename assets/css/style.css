@@ -36,25 +36,21 @@
 }
  */
 .archive__item-title {
-    font-size: 18px;
-    /* 调整论文标题字号 */
-    font-weight: bold;
-    margin-bottom: 5px;
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 2px;
     /* 调整间距 */
     color: #333;
 }
 
 .paper-index {
     font-weight: normal;
-    /* 让序列号加粗 */
-    margin-right: 5px;
+    margin-right: 0px;
     /* 让序列号和标题有一点间距 */
 }
 
 .paper-title {
     font-weight: normal;
     font-size: 14px;
-    /* 让标题字号更小 */
     color: #000;
-    /* 让标题变黑色 */
 }
