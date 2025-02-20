@@ -30,20 +30,26 @@
 .archive__item-title {
     font-size: 14px;
     font-weight: normal;
-    margin-bottom: 2px;
-    /* 调整间距 */
+    margin-bottom: 2px;    /* 调整间距 */
     color: #333;
 }
 
 .paper-index {
     font-size: 14px;
     font-weight: normal;
-    margin-right: 5px;
-    /* 让序列号和标题有一点间距 */
+    margin-right: 5px;    /* 让序列号和标题有一点间距 */
+    color: #000; /* 黑色 */
 }
 
 .paper-title {
     font-weight: normal;
     font-size: 14px;
     color: #000;
+    text-decoration: none; /* 默认无下划线 */
+}
+
+/* 鼠标悬停时标题的下划线效果 */
+.paper-title:hover {
+    text-decoration: underline;
+    /* 悬停时显示下划线 */
 }
