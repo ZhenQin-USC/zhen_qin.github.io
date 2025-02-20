@@ -1,10 +1,11 @@
 ---
-title: "**Z. Qin**, Y. Liu, F. Zheng, and B. Jafarpour, A Fluid Flow‐Based Deep Learning (FFDL) Architecture for Subsurface Flow Systems with Application to Geologic CO<sub>2</sub> Storage"
+title: "A Fluid Flow‐Based Deep Learning (FFDL) Architecture for Subsurface Flow Systems with Application to Geologic CO<sub>2</sub> Storage"
+excerpt: "**Z. Qin**, Y. Liu, F. Zheng, and B. Jafarpour"
 collection: publications
 permalink: /publication/2024-07-03-FFDL-for-CO2-Storage
 date: 2025-02-01
 venue: 'Water Resources Research'
-
+doi: "https://doi.org/10.1029/2024WR037953"
 ---
 
 <div style='text-align: center;'>
