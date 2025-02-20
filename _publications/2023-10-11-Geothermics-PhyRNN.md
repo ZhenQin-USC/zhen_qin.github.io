@@ -3,7 +3,7 @@ title: "Physics-Guided Deep Learning for Prediction of Energy Production from Ge
 collection: publications
 permalink: https://doi-org.libproxy1.usc.edu/10.1016/j.geothermics.2023.102824
 # excerpt: "This study introduces a physics-guided recurrent neural network model to predict and extrapolate for geothermal reservoir, enhancing prediction accuracy and reliability over traditional data-driven models"
-authors: "**Z. Qin**, A. Jiang, D. Faulder, T. T. Cladouhos, and B. Jafarpour<sup>†</sup>"
+authors: "<strong>Z. Qin</strong>, A. Jiang, D. Faulder, T. T. Cladouhos, and B. Jafarpour<sup>†</sup>"
 date: 2024-01-01
 venue: 'Geothermics'
 doi: "https://doi-org.libproxy1.usc.edu/10.1016/j.geothermics.2023.102824"
