@@ -9,9 +9,9 @@ venue: 'Water Resources Research'
 doi: "https://doi.org/10.1029/2024WR037953"
 
 ---
-[DOI](https://doi.org/10.1029/2024WR037953)
-[ResearchGate](https://www.researchgate.net/publication/388426306_A_Fluid_Flow-Based_Deep_Learning_FFDL_Architecture_for_Subsurface_Flow_Systems_With_Application_to_Geologic_CO2_Storage)
-[Download](http://zhenqin-usc.github.io/files/QinEtAl-WRR_2025-FFDL_for_GCS)
+[[DOI](https://doi.org/10.1029/2024WR037953)] 
+[[ResearchGate](https://www.researchgate.net/publication/388426306_A_Fluid_Flow-Based_Deep_Learning_FFDL_Architecture_for_Subsurface_Flow_Systems_With_Application_to_Geologic_CO2_Storage)]
+[[Download](http://zhenqin-usc.github.io/files/QinEtAl-WRR_2025-FFDL_for_GCS)]
 
 ---
 <details>
